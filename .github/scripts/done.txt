@@ -596,3 +596,4 @@ Uwaga: Ta funkcja jest bardzo użyteczna w debuggowaniu programu
      By zamienić frazy pomiędzy dwoma liniami # wpisz      :#,#s/stary/nowy/g
      By zamienić wszystkie wystąpienia w pliku, wpisz       :%s/stary/nowy/g
      By Vim prosił Cię o potwierdzenie, dodaj 'c'	   :%s/stary/nowy/gc
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
