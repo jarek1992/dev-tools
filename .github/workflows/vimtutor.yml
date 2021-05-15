@@ -1,0 +1,13 @@
+name: Vimtutor
+
+on: [pull_request, workflow_dispatch]
+
+jobs:
+  vimtutor:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out code
+      uses: actions/checkout@master
+    - name: Run check.sh
+      working-directory: .github/scripts
+      run: ./check.sh ../../tutor.txt
