@@ -337,7 +337,7 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
   7. Teraz wpisz CTRL-R (trzymaj równocześnie wciśnięte klawisze CTRL i R)
      kilka razy, by cofnąć cofnięcia.
 
----> Popraw błędy w teej linii i zamień je przez cofnij.
+---> Popraw błędy w tej linii i zamień je przez cofnij.
 
   8. To są bardzo pożyteczne polecenia.
 
